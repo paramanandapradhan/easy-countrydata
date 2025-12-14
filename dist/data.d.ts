@@ -1,1 +1,1 @@
-export declare const data: string[][];
+export declare const data: [string, string, string, string, string, [number, number], string[]][];
